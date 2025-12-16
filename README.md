@@ -4,12 +4,19 @@
 Dashboard interaktif untuk memprediksi suhu udara berdasarkan kelembaban relatif menggunakan metode Least Squares Method (LSM). Proyek ini mengimplementasikan regresi linear dan polynomial derajat 2 dengan visualisasi data real-time dari BMKG Stasiun Raja Haji Fisabilillah.
 
 🎯 Fitur Utama
+
 📈 Regresi Linear - Model prediksi T = m × RH + c
+
 📊 Regresi Polynomial - Model prediksi T = aRH² + bRH + c
+
 📉 Residual Plot - Analisis error dengan garis nol y=0
+
 🔢 Input Real-time - Slider kelembaban dengan update instan
+
 📋 Tabel Data - Sample data dengan error per observasi
+
 📥 Export CSV - Download semua prediksi dengan metadata
+
 📊 Statistik Lengkap - R², MAE, MSE, RMSE, Max Error
 
 🚀 Cara Menjalankan
@@ -120,4 +127,5 @@ Proyek ini dibuat untuk tujuan akademik. Silakan gunakan dan modifikasi dengan m
 🔗 Referensi
 BMKG - Badan Meteorologi, Klimatologi, dan Geofisika
 Chart.js Documentation
+
 Least Squares Method - Numerical Analysis
